@@ -41,7 +41,7 @@
 ---
 
 ## 🌟 Featured Projects
-- [Inventory Management System](https://github.com/VaishnaviMahadik23/inventory-management)
+- [Inventory Management System](https://github.com/VaishnaviMahadik23/Inventory-Management-System.git)
 - [SQL Practice Repository](https://github.com/VaishnaviMahadik23/sql-practice)
 
 ---
