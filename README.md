@@ -37,7 +37,6 @@
 - Coming soon: Dynamic blog updates via GitHub Actions 🚀
 <!-- BLOG-POST-LIST:END -->
 
-*(This section auto-updates when you connect your blog RSS feed using GitHub Actions)*
 
 ---
 
