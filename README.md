@@ -112,12 +112,6 @@ https://github.com/VaishnaviMahadik23/Inventory-Management-System
 
 ---
 
-## 🗄️ SQL Practice Repository
-
-A collection of SQL queries covering joins, subqueries, functions, procedures, triggers, views, indexing, and interview questions.
-
-🔗 Repository:
-https://github.com/VaishnaviMahadik23/sql-practice
 
 ---
 
