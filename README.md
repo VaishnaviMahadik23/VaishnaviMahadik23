@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vaishnavi Mahadik
 
-<h3 align="center">💻 Java Developer | SQL Enthusiast | Data Analytics Learner | Open Source Explorer</h3>
+<h3 align="center">💻 Java Developer | SQL Enthusiast | Data Analytics Learner | Open Source Explorer | Ethical Hacker </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=VaishnaviMahadik23">
