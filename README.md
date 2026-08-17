@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vaishnavi Mahadik
+c# Hi there 👋, I'm Vaishnavi Mahadik
 
 <h3 align="center">
   💻 Java Developer | Full-Stack Developer | Data Engineering Enthusiast | SQL Learner
@@ -253,6 +253,14 @@ I regularly practice Data Structures & Algorithms and SQL problems to strengthen
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviMahadik23&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviMahadik23&theme=react-dark&hide_border=true&area=true" alt="Vaishnavi's GitHub Contribution Graph"/>
 </p>
 
 ---
