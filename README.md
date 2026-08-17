@@ -1,49 +1,59 @@
 # Hi there 👋, I'm Vaishnavi Mahadik
 
-<h3 align="center">💻 Java Developer | SQL Enthusiast | Data Analytics Learner | Open Source Explorer | Ethical Hacker </h3>
+<h3 align="center">
+  💻 Java Developer | Full-Stack Developer | Data Engineering Enthusiast | SQL Learner
+</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=VaishnaviMahadik23">
-    <img src="https://komarev.com/ghpvc/?username=VaishnaviMahadik23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/VaishnaviMahadik23">
+    <img src="https://img.shields.io/github/followers/VaishnaviMahadik23?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VaishnaviMahadik23&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavimahadik23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vaishnavimahadik2375@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.Tech Information Technology Student
+🎓 **B.Tech Information Technology Student** passionate about building practical software solutions and continuously improving my problem-solving skills.
 
-💻 Passionate about Java Development, SQL, Data Analytics, and Backend Development.
+💻 I enjoy working with **Java, Spring Boot, React, Python, SQL, and Data Engineering technologies**.
 
-🌱 Currently learning
-- Java
-- Python
-- SQL
-- JDBC
-- Power BI
-- Data Visualization
+🌱 Currently exploring:
 
-🔭 Currently working on
-- 📦 Inventory Management System using Java JDBC
-- 📊 SQL Practice Repository
+* Java & Advanced Java
+* Spring Boot & REST APIs
+* Data Structures & Algorithms
+* SQL & Database Management
+* Python for Data Analysis
+* Apache Spark & PySpark
+* Azure & Cloud Technologies
+* Power BI & Data Visualization
 
-👯 Looking to collaborate on
-- Java Projects
-- Open Source
-- Data Analytics Projects
+🔭 Currently working on:
 
-💬 Ask me about
-- Java
-- SQL
-- JDBC
-- Python Basics
-- Power BI
+* 🔐 **Quantum-Safe File Transfer Application**
+* 🏦 **Digital Banking Management Platform**
+* 📊 **Data Engineering & SQL Projects**
+* 💻 **DSA & Competitive Programming**
 
-📫 Reach Me
+💡 I am interested in:
 
-- 📧 **Email:** **vaishnavimahadik2375@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vaishnavimahadik23/
+* Backend Development
+* Full-Stack Development
+* Data Engineering
+* Cloud Technologies
+* Database Systems
+* Cybersecurity
 
 ---
 
@@ -51,42 +61,198 @@
 
 ## 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
----
+## 🌐 Web & Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
+</p>
+
+## ☁️ Data Engineering & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 ## 📊 Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+## 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-## ⚙️ Tools & Technologies
+# 🌟 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+## 🔐 Quantum-Safe File Transfer Application
+
+A secure file transfer platform designed using **hybrid encryption techniques** to provide enhanced protection against both classical and future quantum-based attacks.
+
+### Tech Stack
+
+`Java` `Spring Boot` `PostgreSQL` `Spring Security` `JWT` `React` `Hybrid Encryption`
+
+### Highlights
+
+* 🔒 Secure user authentication using JWT
+* 🛡️ Hybrid cryptographic architecture
+* 📁 Secure file transfer workflow
+* 👤 Protected user routes
+* 🔐 Password hashing using BCrypt
+* 🗄️ PostgreSQL database integration
+* ⚛️ React-based frontend
+
+---
+
+## 🏦 FinCore – Digital Banking Management Platform
+
+A modern digital banking management platform designed to support different banking roles and workflows.
+
+### Tech Stack
+
+`React` `JavaScript` `REST API` `Axios` `CSS` `React Router`
+
+### Highlights
+
+* 👤 Role-Based Access Control
+* 🏦 Customer banking dashboard
+* 👨‍💼 Admin management interface
+* 👥 Employee management
+* 🔐 Authentication & protected routes
+* 📊 Dashboard-based banking workflows
+* 📱 Responsive and modern UI
+
+---
+
+## 📦 Inventory Management System
+
+A Java JDBC-based application for managing products, suppliers, inventory, and sales using a relational database.
+
+### Tech Stack
+
+`Java` `JDBC` `MySQL`
+
+### Highlights
+
+* 📦 Product management
+* 🏭 Supplier management
+* 📊 Inventory tracking
+* 💰 Sales management
+* 🗄️ MySQL database integration
+* 🔗 JDBC-based database connectivity
+
+🔗 **Repository:**
+https://github.com/VaishnaviMahadik23/Inventory-Management-System
+
+---
+
+## 🌦️ Weather Dashboard
+
+A responsive web application that displays weather information using a weather API.
+
+### Tech Stack
+
+`React` `JavaScript` `REST API` `CSS`
+
+### Highlights
+
+* 🌤️ Real-time weather information
+* 📍 Location-based weather search
+* 📊 Weather details and conditions
+* 📱 Responsive interface
+
+---
+
+# 📚 Currently Learning
+
+* ☕ Advanced Java
+* 🌱 Spring Boot
+* 🧩 REST API Development
+* 🧠 Data Structures & Algorithms
+* 🗄️ Advanced SQL
+* ⚡ Apache Spark & PySpark
+* ☁️ Azure Data Engineering
+* 📊 Power BI
+* 🐍 Python for Data Analysis
+
+---
+
+# 🧠 Problem Solving
+
+I regularly practice Data Structures & Algorithms and SQL problems to strengthen my problem-solving and technical interview skills.
+
+### Areas I'm Practicing
+
+* Arrays & Strings
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Trees & Graphs
+* Dynamic Programming
+* SQL Queries
+* Database Optimization
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Solve **500+ DSA problems**
+* ☕ Strengthen **Java & Spring Boot**
+* 🗄️ Master **SQL & Database Systems**
+* ⚡ Build strong **Data Engineering fundamentals**
+* ☁️ Improve **Azure & Cloud skills**
+* 📊 Build practical **Data Analytics projects**
+* 🌟 Contribute to **Open Source**
+* 💻 Build and deploy production-ready applications
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaishnaviMahadik23&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMahadik23&layout=compact&theme=radical"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaishnaviMahadik23&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMahadik23&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviMahadik23&theme=radical"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviMahadik23&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -94,95 +260,57 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VaishnaviMahadik23&theme=radical&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviMahadik23&theme=radical&margin-w=10&margin-h=10"/>
 </p>
-
----
-
-# 🌟 Featured Projects
-
-## 📦 Inventory Management System
-
-A Java JDBC-based desktop application that efficiently manages products, suppliers, inventory, and sales using MySQL.
-
-🔗 Repository:
-https://github.com/VaishnaviMahadik23/Inventory-Management-System
-
----
-
-
----
-
-# 📚 Currently Learning
-
-- ✅ Advanced Java
-- ✅ JDBC
-- ✅ Data Structures & Algorithms
-- ✅ SQL Optimization
-- ✅ Power BI Dashboards
-- ✅ Python for Data Analysis
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Solve 500+ DSA Problems
-- 🚀 Build 10+ Java Projects
-- 🚀 Master JDBC & SQL
-- 🚀 Learn Spring Boot
-- 🚀 Contribute to Open Source
-- 🚀 Strengthen Data Analytics Skills
 
 ---
 
 # 📊 Coding Activity
 
 <!--START_SECTION:waka-->
+
 Coming Soon 🚀
+
 <!--END_SECTION:waka-->
-
----
-
-# 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-🚀 Coming Soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavimahadik23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/vaishnavimahadik23/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="mailto:vaishnavimahadik2375@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:vaishnavimahadik2375@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VaishnaviMahadik23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/VaishnaviMahadik23">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💡 Quote of the Day
+# 💡 Developer Philosophy
 
-> **"Consistency beats intensity. Keep learning, keep building, and success will follow."**
+> **"Learn consistently. Build practically. Improve continuously."**
+
+I believe that the best way to learn technology is by building real-world projects, solving problems, and continuously experimenting with new ideas.
 
 ---
 
 # ⚡ Fun Fact
 
-✨ I enjoy transforming raw data into meaningful insights, building practical Java applications, and continuously exploring new technologies to solve real-world problems.
+✨ I enjoy turning ideas into working applications, solving challenging programming problems, working with data, and exploring technologies that can solve real-world problems.
 
 ---
 
-⭐ **If you like my work, don't forget to star my repositories!**
+<p align="center">
+  ⭐ <b>If you find my projects useful, consider giving them a star!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
