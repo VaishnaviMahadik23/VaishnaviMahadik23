@@ -1,4 +1,4 @@
-c# Hi there 👋, I'm Vaishnavi Mahadik
+# Hi there 👋, I'm Vaishnavi Mahadik
 
 <h3 align="center">
   💻 Java Developer | Full-Stack Developer | Data Engineering Enthusiast | SQL Learner
@@ -30,14 +30,14 @@ c# Hi there 👋, I'm Vaishnavi Mahadik
 
 🌱 Currently exploring:
 
-* Java & Advanced Java
-* Spring Boot & REST APIs
-* Data Structures & Algorithms
-* SQL & Database Management
-* Python for Data Analysis
-* Apache Spark & PySpark
-* Azure & Cloud Technologies
-* Power BI & Data Visualization
+* ☕ Java & Advanced Java
+* 🌱 Spring Boot & REST APIs
+* 🧠 Data Structures & Algorithms
+* 🗄️ SQL & Database Management
+* 🐍 Python for Data Analysis
+* ⚡ Apache Spark & PySpark
+* ☁️ Azure & Cloud Technologies
+* 📊 Power BI & Data Visualization
 
 🔭 Currently working on:
 
@@ -46,7 +46,7 @@ c# Hi there 👋, I'm Vaishnavi Mahadik
 * 📊 **Data Engineering & SQL Projects**
 * 💻 **DSA & Competitive Programming**
 
-💡 I am interested in:
+💡 Areas of interest:
 
 * Backend Development
 * Full-Stack Development
@@ -104,7 +104,7 @@ c# Hi there 👋, I'm Vaishnavi Mahadik
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-## 🔧 Tools
+## 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -120,7 +120,7 @@ c# Hi there 👋, I'm Vaishnavi Mahadik
 
 ## 🔐 Quantum-Safe File Transfer Application
 
-A secure file transfer platform designed using **hybrid encryption techniques** to provide enhanced protection against both classical and future quantum-based attacks.
+A secure file transfer platform designed using **hybrid encryption techniques** to provide enhanced protection against classical and future quantum-based security threats.
 
 ### Tech Stack
 
@@ -128,13 +128,14 @@ A secure file transfer platform designed using **hybrid encryption techniques** 
 
 ### Highlights
 
-* 🔒 Secure user authentication using JWT
+* 🔒 JWT-based authentication
 * 🛡️ Hybrid cryptographic architecture
 * 📁 Secure file transfer workflow
 * 👤 Protected user routes
-* 🔐 Password hashing using BCrypt
+* 🔐 BCrypt password hashing
 * 🗄️ PostgreSQL database integration
 * ⚛️ React-based frontend
+* 🔐 Security-focused application architecture
 
 ---
 
@@ -144,7 +145,7 @@ A modern digital banking management platform designed to support different banki
 
 ### Tech Stack
 
-`React` `JavaScript` `REST API` `Axios` `CSS` `React Router`
+`React` `JavaScript` `REST API` `Axios` `React Router` `CSS`
 
 ### Highlights
 
@@ -182,7 +183,7 @@ https://github.com/VaishnaviMahadik23/Inventory-Management-System
 
 ## 🌦️ Weather Dashboard
 
-A responsive web application that displays weather information using a weather API.
+A responsive React-based web application that displays weather information using a weather API.
 
 ### Tech Stack
 
@@ -192,8 +193,32 @@ A responsive web application that displays weather information using a weather A
 
 * 🌤️ Real-time weather information
 * 📍 Location-based weather search
-* 📊 Weather details and conditions
+* 📊 Weather conditions and details
 * 📱 Responsive interface
+* ⚡ API integration
+
+---
+
+# 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and **SQL problems** to strengthen my problem-solving abilities and prepare for technical interviews.
+
+### Areas I'm Practicing
+
+* Arrays & Strings
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Trees & Graphs
+* Dynamic Programming
+* Sorting & Searching
+* SQL Queries
+* Joins & Subqueries
+* Window Functions
+* Database Optimization
 
 ---
 
@@ -211,26 +236,6 @@ A responsive web application that displays weather information using a weather A
 
 ---
 
-# 🧠 Problem Solving
-
-I regularly practice Data Structures & Algorithms and SQL problems to strengthen my problem-solving and technical interview skills.
-
-### Areas I'm Practicing
-
-* Arrays & Strings
-* Linked Lists
-* Stack & Queue
-* Hashing
-* Binary Search
-* Sliding Window
-* Two Pointers
-* Trees & Graphs
-* Dynamic Programming
-* SQL Queries
-* Database Optimization
-
----
-
 # 🎯 2026 Goals
 
 * 🚀 Solve **500+ DSA problems**
@@ -241,18 +246,30 @@ I regularly practice Data Structures & Algorithms and SQL problems to strengthen
 * 📊 Build practical **Data Analytics projects**
 * 🌟 Contribute to **Open Source**
 * 💻 Build and deploy production-ready applications
+* 🤝 Collaborate on meaningful software projects
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaishnaviMahadik23&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMahadik23&layout=compact&theme=radical&hide_border=true"/>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=VaishnaviMahadik23&show_icons=true&theme=radical&hide_border=true"
+    alt="Vaishnavi's GitHub Statistics"
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMahadik23&layout=compact&theme=radical&hide_border=true"
+    alt="Vaishnavi's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviMahadik23&theme=radical&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviMahadik23&theme=radical&hide_border=true"
+    alt="Vaishnavi's GitHub Streak"
+  />
 </p>
 
 ---
@@ -260,7 +277,10 @@ I regularly practice Data Structures & Algorithms and SQL problems to strengthen
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=VaishnaviMahadik23&theme=react-dark&hide_border=true&area=true" alt="Vaishnavi's GitHub Contribution Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviMahadik23&theme=react-dark&hide_border=true&area=true"
+    alt="Vaishnavi's GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -268,24 +288,18 @@ I regularly practice Data Structures & Algorithms and SQL problems to strengthen
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=VaishnaviMahadik23&theme=radical&margin-w=10&margin-h=10"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=VaishnaviMahadik23&theme=radical&no-frame=true&margin-w=10&margin-h=10"
+    alt="Vaishnavi's GitHub Trophies"
+  />
 </p>
-
----
-
-# 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-
-Coming Soon 🚀
-
-<!--END_SECTION:waka-->
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+
   <a href="https://www.linkedin.com/in/vaishnavimahadik23/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -297,6 +311,7 @@ Coming Soon 🚀
   <a href="https://github.com/VaishnaviMahadik23">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
 </p>
 
 ---
@@ -305,7 +320,7 @@ Coming Soon 🚀
 
 > **"Learn consistently. Build practically. Improve continuously."**
 
-I believe that the best way to learn technology is by building real-world projects, solving problems, and continuously experimenting with new ideas.
+I believe the best way to learn technology is by **building real-world projects, solving problems, experimenting with new technologies, and continuously improving.**
 
 ---
 
