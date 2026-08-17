@@ -260,7 +260,7 @@ I regularly practice Data Structures & Algorithms and SQL problems to strengthen
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviMahadik23&theme=react-dark&hide_border=true&area=true" alt="Vaishnavi's GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=VaishnaviMahadik23&theme=react-dark&hide_border=true&area=true" alt="Vaishnavi's GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -268,7 +268,7 @@ I regularly practice Data Structures & Algorithms and SQL problems to strengthen
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviMahadik23&theme=radical&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.herokuapp.com/?username=VaishnaviMahadik23&theme=radical&margin-w=10&margin-h=10"/>
 </p>
 
 ---
