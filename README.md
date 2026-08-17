@@ -291,7 +291,7 @@ I regularly practice **Data Structures & Algorithms** and **SQL problems** to st
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=VaishnaviMahadik23&theme=radical&no-frame=true&margin-w=10&margin-h=10"
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=VaishnaviMahadik23&theme=radical&no-frame=true&margin-w=10&margin-h=10"
     alt="Vaishnavi's GitHub Trophies"
   />
 </p>
