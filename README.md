@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Vaishnavi Mahadik
 
 <h3 align="center">
-  💻 Java Developer | Full-Stack Developer | Data Engineering Enthusiast | SQL Learner
+  💻 Java Developer | Data Engineering Enthusiast  |  Full-Stack Developer  | SQL Learner
 </h3>
 
 <p align="center">
